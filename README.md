@@ -101,3 +101,5 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 --- 
 
 Enjoy using TrafficFlow Analyzer! 🚦
+![Screenshot 2024-11-29 204223](https://github.com/user-attachments/assets/a2cdb81c-96b6-4605-aeaf-d3f8bb4962f3)
+
