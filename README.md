@@ -1,4 +1,4 @@
-### README for Traffic_data_analyser
+### Traffic_data_analyser
 
 ---
 
@@ -36,7 +36,7 @@ TrafficFlow Analyzer is a Python-based application designed to process traffic d
    git clone https://github.com/saugat2003/traffic_data_analyser.git
    cd traffic_data_analyser
    ```
-2. Install Python dependencies (if applicable).
+2. Install Python dependencies .
 
 ---
 
